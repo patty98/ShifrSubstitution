@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DES_image", "DES_image\DES_image.csproj", "{76085328-ECB8-4CCB-8EB3-6178800298CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76085328-ECB8-4CCB-8EB3-6178800298CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76085328-ECB8-4CCB-8EB3-6178800298CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76085328-ECB8-4CCB-8EB3-6178800298CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76085328-ECB8-4CCB-8EB3-6178800298CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E42941-900D-4F31-9517-BBF73A205722}
+	EndGlobalSection
+EndGlobal

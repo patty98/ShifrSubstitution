@@ -1,0 +1,10 @@
+D:\Disk D old\projects VS c++\DES_image\DES_image\bin\Debug\DES_image.exe.config
+D:\Disk D old\projects VS c++\DES_image\DES_image\bin\Debug\DES_image.exe
+D:\Disk D old\projects VS c++\DES_image\DES_image\bin\Debug\DES_image.pdb
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.Form1.resources
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.Properties.Resources.resources
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.csproj.GenerateResource.cache
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.exe
+D:\Disk D old\projects VS c++\DES_image\DES_image\obj\Debug\DES_image.pdb
